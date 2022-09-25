@@ -1,3 +1,5 @@
+![INTRO-IMAGE-Final-Upload](https://user-images.githubusercontent.com/84449238/192144718-dfcbd33d-4dde-4537-a5fd-58916ce05e57.JPG)
+
 # Predict_Raisin_Category_MachineLearning-TechGIG
 
 **1) Problem Statement:-**
