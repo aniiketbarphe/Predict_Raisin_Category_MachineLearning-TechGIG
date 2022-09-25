@@ -1,4 +1,4 @@
-![INTRO-IMAGE-Final-Upload](https://user-images.githubusercontent.com/84449238/192144718-dfcbd33d-4dde-4537-a5fd-58916ce05e57.JPG)
+![INTRO-IMAGE](https://user-images.githubusercontent.com/84449238/192144749-0010682f-bd44-49fa-a8fa-282263b46126.JPG)
 
 # Predict_Raisin_Category_MachineLearning-TechGIG
 
