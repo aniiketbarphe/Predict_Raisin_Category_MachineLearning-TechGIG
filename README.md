@@ -10,7 +10,7 @@ Classify the raisin into the two categories: Keci and Bes based on the features 
 
 **3) Dataset description:-**
 
-**3.1) The data set consists of 9 attributes. None of the values is missing in the dataset.
+**3.1) The data set consists of 9 attributes. None of the values is missing in the dataset.**
 
 ![Dataset-Img1](https://user-images.githubusercontent.com/84449238/192144275-a878b37d-db6a-43a3-b2a4-3b6fcbea0b0b.JPG)
 
