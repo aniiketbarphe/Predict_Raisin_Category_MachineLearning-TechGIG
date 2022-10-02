@@ -26,7 +26,7 @@ Classify the raisin into the two categories: Keci and Bes based on the features 
 
 **a) Best Submission Score:-** 71.5
 
-**b) Best Model: Ensemble Model:-** (Logistic Regression + CatBoost Classifier + XGB Classifier+ LGBM Classifier)
+**b) Best Model:-** Ensemble Model (Logistic Regression + CatBoost Classifier + XGB Classifier+ LGBM Classifier)
 
 ![Merged_document](https://user-images.githubusercontent.com/84449238/193445754-f1ebe98c-0dc0-4607-938f-0b7823be66ca.jpg)
 
