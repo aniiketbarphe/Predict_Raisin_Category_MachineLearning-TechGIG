@@ -24,6 +24,15 @@ Classify the raisin into the two categories: Keci and Bes based on the features 
 
 # Summary
 
-**a) Competition Link:-** https://www.techgig.com/challenge/DB/data-science
+**a) Best Submission Score:-** 71.5
+
+**b) Best Model: Ensemble Model:-** (Logistic Regression + CatBoost Classifier + XGB Classifier+ LGBM Classifier)
+
+![Merged_document](https://user-images.githubusercontent.com/84449238/193445754-f1ebe98c-0dc0-4607-938f-0b7823be66ca.jpg)
+
+![Rank_Certificate-TechGig_page-0001](https://user-images.githubusercontent.com/84449238/193445769-8fa64b8c-2098-4e7b-9b66-20ba94753b3a.jpg)
+
+**c) Competition Link:-** https://www.techgig.com/challenge/DB/data-science
+**d) Rank Scored:-** 14 out of 292 participants
 
 
